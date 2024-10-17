@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @camodeny
 - 👀 I’m interested in artificial intelligence and webapps
-- 🌱 I’m currently learning computer science at Calhoun Community College
-- 💞️ I’m looking to collaborate on my free version of Google Drive
+- 🌱 I’m currently learning computer science at Athens State University
 
 <!---
 camodeny/camodeny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
